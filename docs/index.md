@@ -22,10 +22,10 @@ title: Support
 - Try writing with darker ink and avoid glare.
 
 ### Contact
-- Support (GitHub Issues): Please open an issue in this repository and include:
-  - device model + iOS version
-  - what you wrote/shown to the camera
-  - a screenshot (if possible)
+For any questions or support, please email us at: **dbeyzade@hotmail.com**
+
+### Legal
+- [Terms of Use (EULA)](eula.html)
 
 ---
 
@@ -47,7 +47,7 @@ title: Support
 - Koyu kalem kullanın, yansımadan kaçının.
 
 ### İletişim
-- Destek (GitHub Issues): Bu repoda bir issue açın ve şunları ekleyin:
-  - cihaz modeli + iOS sürümü
-  - kameraya gösterdiğiniz işlem
-  - mümkünse ekran görüntüsü
+Sorularınız veya destek için bize e-posta gönderin: **dbeyzade@hotmail.com**
+
+### Yasal
+- [Kullanım Koşulları (EULA)](eula.html)
